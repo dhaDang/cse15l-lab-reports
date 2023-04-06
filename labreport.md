@@ -1,5 +1,4 @@
 ## **LAB REPORT 1**
 <br>
-Danielle Dang
-***
+### Danielle Dang 
 This is a test
