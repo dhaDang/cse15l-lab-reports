@@ -1,2 +1,3 @@
-**LAB REPORT 1 Danielle Dang**
+**LAB REPORT 1**
+Danielle Dang
 ---
