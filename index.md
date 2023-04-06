@@ -1,2 +1,2 @@
 Hello :)
-bye
+**Welcome to my lab report page**
