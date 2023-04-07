@@ -38,11 +38,11 @@ The output of this should be:
 ### Step 3: Trying Some Commands 
 Lets try doing stuff with the terminal (now connected to the CSE basement)
 List of commands to try!
-* cd ~ (insert descriprion) 
-* cd
-* ls -lat
-* ls -a
-* /home/linux/ieng6/cs15lsp23/cs15lspabc (abc is someone else's username) 
+List of commands to try!
+* cd (this command changes the directory, which changes the context of the terminal to the path you cd to)
+* ls -lat (this command lists the files and folders in the given path)
+* pwd (this command gives you the current working directory your terminal is using)
+* ls -a (explained above)
 
 Running a few commands shoud look similar to this:
 <img width="504" alt="Screen Shot 2023-04-07 at 10 01 02 AM" src="https://user-images.githubusercontent.com/130107069/230648020-d4a64e62-5ab7-4097-8d4b-468e3a9f3784.png">
@@ -51,6 +51,7 @@ How do I exit the remote server after I'm done?
 * simple do **Ctrl-D**  or type **exit** 
 
 **Congrats you have successfully connected to a remote server and run commands through it!**
+
 
 
 
