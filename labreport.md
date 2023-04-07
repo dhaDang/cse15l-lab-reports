@@ -17,6 +17,7 @@ Once installed, open Visual Code Studio. The homepage should look similar to thi
 
 ### Step Two: Remotely Connecting 
 Now that you have Visual Studio Code installed, you want to use the terminal to connect with a remote computer! In this case, we're trying to log in with a course specific account with ieng6.
+<br>
 Note: ignore the next few lines if you have a Mac, only complete the next two steps if you're on Windows!
 * Install git 
 * open a terminal in Vs Code and open a new terminal 
