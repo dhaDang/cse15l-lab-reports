@@ -31,7 +31,9 @@ The output of this should be:
 * write: ssh cs15lsp23xx@ieng6.ucsd.edu ->replace xx corresponding to your personal account
 * You should then be prompted to answer a yes/no question ** reply with yes! **
 * Then type in your password 
-** Now the terminal is connected to the CSE basement! **
+** Now the terminal is connected to the CSE basement! Your terminal should look similar to this**
+<img width="321" alt="Screen Shot 2023-04-07 at 10 00 04 AM" src="https://user-images.githubusercontent.com/130107069/230647932-b5accc4d-a4a2-4df7-9b9f-2e75e19f1a2f.png">
+
 
 ### Step 3: Trying Some Commands 
 Lets try doing stuff with the terminal (now connected to the CSE basement)
@@ -41,6 +43,10 @@ List of commands to try!
 * ls -lat
 * ls -a
 * /home/linux/ieng6/cs15lsp23/cs15lspabc (abc is someone else's username) 
+
+Running a few commands shoud look similar to this:
+<img width="504" alt="Screen Shot 2023-04-07 at 10 01 02 AM" src="https://user-images.githubusercontent.com/130107069/230648020-d4a64e62-5ab7-4097-8d4b-468e3a9f3784.png">
+
 How do I exit the remote server after I'm done? 
 * simple do **Ctrl-D**  or type **exit** 
 
