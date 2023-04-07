@@ -1,4 +1,4 @@
-## **LAB REPORT 1 <br> Danielle Dang **
+## LAB REPORT 1 <br> Danielle Dang 
 <br>
 Listed below is a step by step guide on how to log into a course specific account on **ieng6**!
 
@@ -28,8 +28,23 @@ The output of this should be:
 
 ** Note: steps below are the same regardless of Mac or Windows! **
 * write: ssh cs15lsp23xx@ieng6.ucsd.edu ->replace xx corresponding to your personal account
-You should then be prompted to answer a yes/no question ** reply with yes! **
-Then type in your password 
-At this point your terminal should look like this 
-** Note the structure should be the same but my account is my email rather than my username due to some issues **
+* You should then be prompted to answer a yes/no question ** reply with yes! **
+* Then type in your password 
+** Now the terminal is connected to the CSE basement! **
+
+### Step 3: Trying Some Commands 
+Lets try doing stuff with the terminal (now connected to the CSE basement)
+List of commands to try!
+* cd ~ (insert descriprion) 
+* cd
+* ls -lat
+* ls -a
+* /home/linux/ieng6/cs15lsp23/cs15lspabc (abc is someone else's username) 
+How do I exit the remote server after I'm done? 
+* simple do **Ctrl-D**  or type **exit** 
+
+**Congrats you have successfully connected to a remote server and run commands through it!**
+
+
+
 
