@@ -20,9 +20,16 @@ Now that you have Visual Studio Code installed, you want to use the terminal to 
 Note: ignore the next few lines if you have a Mac, only complete the next two steps if you're on Windows!
 * Install git 
 * open a terminal in Vs Code and open a new terminal 
-* write: ssh cs15lsp23xx@ieng6.ucsd.edu ->replace xx corresponding to your personal account
 
 FOR MAC:
 * github should be installed already to check write git to terminal 
 The output of this should be: 
 <img width="561" alt="Screen Shot 2023-04-06 at 5 50 12 PM" src="https://user-images.githubusercontent.com/130107069/230518605-7e217dd5-8650-4d5e-bc4b-6df36a1a2e2c.png">
+
+** Note: steps below are the same regardless of Mac or Windows! **
+* write: ssh cs15lsp23xx@ieng6.ucsd.edu ->replace xx corresponding to your personal account
+You should then be prompted to answer a yes/no question ** reply with yes! **
+Then type in your password 
+At this point your terminal should look like this 
+** Note the structure should be the same but my account is my email rather than my username due to some issues **
+
