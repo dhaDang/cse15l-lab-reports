@@ -10,7 +10,8 @@ The website should look like this!
 
 Note: Theres a dropdown if your device is not a mac
 
-Once installed, open Visual Code Studio. The homepage should look similar to this: 
+Once installed, open Visual Code Studio. The homepage should look similar to this:
+<br>
 <img width="904" alt="Screen Shot 2023-04-06 at 5 33 47 PM" src="https://user-images.githubusercontent.com/130107069/230517292-8fd3323c-0f94-4544-b767-aa0bfd389e02.png">
 
 **Congrats! You completed step 1**
@@ -20,11 +21,12 @@ Now that you have Visual Studio Code installed, you want to use the terminal to 
 <br>
 Note: ignore the next few lines if you have a Mac, only complete the next two steps if you're on Windows!
 * Install git 
-* open a terminal in Vs Code and open a new terminal 
+* open Vs Code and open a new terminal 
 
 FOR MAC:
 * github should be installed already to check write git to terminal 
 The output of this should be: 
+<br>
 <img width="561" alt="Screen Shot 2023-04-06 at 5 50 12 PM" src="https://user-images.githubusercontent.com/130107069/230518605-7e217dd5-8650-4d5e-bc4b-6df36a1a2e2c.png">
 
 ** Note: steps below are the same regardless of Mac or Windows! **
@@ -32,6 +34,7 @@ The output of this should be:
 * You should then be prompted to answer a yes/no question ** reply with yes! **
 * Then type in your password 
 ** Now the terminal is connected to the CSE basement! Your terminal should look similar to this**
+<br>
 <img width="321" alt="Screen Shot 2023-04-07 at 10 00 04 AM" src="https://user-images.githubusercontent.com/130107069/230647932-b5accc4d-a4a2-4df7-9b9f-2e75e19f1a2f.png">
 
 
@@ -45,6 +48,7 @@ List of commands to try!
 * ls -a (explained above)
 
 Running a few commands shoud look similar to this:
+<br>
 <img width="504" alt="Screen Shot 2023-04-07 at 10 01 02 AM" src="https://user-images.githubusercontent.com/130107069/230648020-d4a64e62-5ab7-4097-8d4b-468e3a9f3784.png">
 
 How do I exit the remote server after I'm done? 
