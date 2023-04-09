@@ -8,7 +8,7 @@ The website should look like this!
 <br>
 <img width="919" alt="Screen Shot 2023-04-06 at 5 31 41 PM" src="https://user-images.githubusercontent.com/130107069/230517119-61e3cf37-d004-4413-a5e1-5e696a1e8386.png">
 
-Note: Theres a dropdown if your device is not a mac
+Note: Theres a dropdown menu if your device is not a mac
 
 Once installed, open Visual Code Studio. The homepage should look similar to this:
 <br>
