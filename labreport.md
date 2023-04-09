@@ -35,7 +35,7 @@ The output of this should be:
 
 * You should then be prompted to answer a yes/no question ** reply with yes! **
 * Then type in your password 
-** Now the terminal is connected to the CSE basement! Your terminal should look similar to this**
+** Now the terminal is connected to the CSE basement! Your terminal should look similar to this 
 <br>
 <img width="321" alt="Screen Shot 2023-04-07 at 10 00 04 AM" src="https://user-images.githubusercontent.com/130107069/230647932-b5accc4d-a4a2-4df7-9b9f-2e75e19f1a2f.png">
 
