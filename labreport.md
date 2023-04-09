@@ -30,9 +30,9 @@ The output of this should be:
 <img width="561" alt="Screen Shot 2023-04-06 at 5 50 12 PM" src="https://user-images.githubusercontent.com/130107069/230518605-7e217dd5-8650-4d5e-bc4b-6df36a1a2e2c.png">
 
 **Note: steps below are the same regardless of Mac or Windows! **
-* write: ssh cs15lsp23__@ieng6.ucsd.edu ->replace the underline corresponding to your personal account (the general format is shh <username>@<servername>)
+* write: ssh cs15lsp23__@ieng6.ucsd.edu ->replace the underline corresponding to your personal account (the general format is ssh <username>@<servername>)
 <br>
-**Note: Why do we use ssh or "secure shell? It switches your current terminal to another computer's to run commands remotely. In other words, it essentially allows communication between a computer and another computer and programs. ** 
+** Note: Why do we use ssh or "secure shell? It switches your current terminal to another computer's to run commands remotely. In other words, it essentially allows communication between a computer and another computer and programs. ** 
 
 * You should then be prompted to answer a yes/no question ** reply with yes! **
 * Then type in your password 
