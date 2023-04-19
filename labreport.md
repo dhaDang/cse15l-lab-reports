@@ -32,17 +32,17 @@ The output of this should be:
 **Note: steps below are the same regardless of Mac or Windows!**
 * write: 
 
-'''
+```
 ssh cs15lsp23__@ieng6.ucsd.edu
-'''
+```
 
 but replace the underline corresponding to your personal account 
 * (because of some issues with the server, I had to personally use my school account rather than my 
 
 
-'''
+```
 cs15lsp23__ account
-'''
+```
 
 
 I was able to log in with my account and password on the CSE basement computer but when trying to run it in my terminal to remotely connect it failed. Regardless, the steps should be the same)
