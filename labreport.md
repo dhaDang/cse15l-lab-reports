@@ -62,7 +62,12 @@ List of commands to try!
 * cd (this command changes the directory, which changes the context of the terminal to the path you cd to)
 * ls -lat (this command lists the files and folders in the given path)
 * pwd (this command gives you the current working directory your terminal is using)
-* ls -a (explained above)
+* ls -a (this command lists the files and folders in the given path)
+**Whats the difference between ls - lat or ls - a?**
+Ls is the command to print out the list directory contents, the "-" seen in the middle concatenates ls to a flag. Based on this website [Linux manual page](https://code.visualstudio.com/), "-a, --all do not ignore entries starting with .", on the other hand, "-l uses a long listing format", "-a, -all do not ignore entries starting with .", "-t sort by time, newest first; see --time". 
+
+In other words the difference between the two holds in the flags they hold after the "-", it'll list the files and folders in the path you give it but the way it does it depends on the statements following "-". 
+
 
 Running a few commands shoud look similar to this:
 <br>
