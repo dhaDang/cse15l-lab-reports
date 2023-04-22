@@ -4,6 +4,7 @@ Part 1: Creating a server called String Server that keeps track of requests!
 
 
 Part 2: bugs! 
+
 In lab, one of the methods we had to debug was:
 ```
   static int[] reversed(int[] arr) {
@@ -94,4 +95,5 @@ would then properly return the reversed array.
 With the change the Junit test now successfully passed. 
 
 **Part 3: What I learned in lab 2 and 3!**
+
 My understanding of web servers and how to run them was extremely limited before lab 2 and lab 3. I had never opened/built a web server myself and write code to manipulate what shows up in the web page. I specifically learned how to start a web server (this involves understanding what a port and local host was), how to access URLS from the command line using the curl and see the web page's contents from the terminal, and so much more. I also learned a little more about debugging and the sepcific terms and aspects of it. Beforehand, my understanding of debugging was very broad and my general view on it was that debugging was just fixing code that doesn't work. However with week 3's lectures and lab 3, I now understand that a symptom is the output from the bug, a failure inducing output is the input that caused the error and leads to the symptom, and a bug is the program that causes the failure itself. 
