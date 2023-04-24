@@ -6,6 +6,23 @@ What should this server do? It should store and keep track of a string that gets
 
 In order to achieve this, my code looks like this: 
 
+<img width="807" alt="Screen Shot 2023-04-24 at 4 26 48 PM" src="https://user-images.githubusercontent.com/130107069/234136803-e9938e77-19b7-4f2f-b086-1719c362018c.png">
+
+Notes on what the code does: 
+* I first created String variable that starts as a empty string (this is where I will add the String requests and store them
+* the command line/url argument is then split from the "=" if the keyword "/add-message" is given
+
+<img width="500" alt="Screen Shot 2023-04-24 at 4 24 55 PM" src="https://user-images.githubusercontent.com/130107069/234136592-387679c0-f312-443a-a273-3fe4e1a6282a.png">
+
+<img width="546" alt="Screen Shot 2023-04-24 at 4 25 14 PM" src="https://user-images.githubusercontent.com/130107069/234136628-30f7c11b-e2f9-434a-acb1-e5cf8aa5a8be.png">
+
+<img width="471" alt="Screen Shot 2023-04-24 at 4 25 45 PM" src="https://user-images.githubusercontent.com/130107069/234136683-422f4c9a-f699-4168-add5-baa4b93ae3ea.png">
+
+<img width="411" alt="Screen Shot 2023-04-24 at 4 26 29 PM" src="https://user-images.githubusercontent.com/130107069/234136761-c95292f0-6386-434a-809f-617aeecc531b.png">
+
+
+
+
 Part 2: bugs! 
 
 In lab, one of the methods we had to debug was:
