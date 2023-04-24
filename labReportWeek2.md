@@ -2,6 +2,9 @@
 <br>
 Part 1: Creating a server called String Server that keeps track of requests! 
 
+What should this server do? It should store and keep track of a string that gets added onto by more strings through the means of requests. 
+
+In order to achieve this, my code looks like this: 
 
 Part 2: bugs! 
 
