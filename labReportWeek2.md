@@ -14,14 +14,17 @@ Notes on what the code does:
 * together is then updated to whatever together previously was plus the new string given in the URL
 * together is then returned 
 * if theres no key "\add-message" a error message is then returned 
-* The code in StringServer class ffunctions to start the server itself 
+* The code in StringServer class functions to start the server itself 
 
 The server:
 
 <img width="500" alt="Screen Shot 2023-04-24 at 4 24 55 PM" src="https://user-images.githubusercontent.com/130107069/234136592-387679c0-f312-443a-a273-3fe4e1a6282a.png">
 
+Note the url is: "http://localhost:4000/add-message?s=Hello", if we trace the code with the input above in the URL, the handleRequest method is called. It notices that the key "/add-message" is found and enters the if statement. Consequently, the string gets split and "Hello" is printed on the server. 
 
 <img width="546" alt="Screen Shot 2023-04-24 at 4 25 14 PM" src="https://user-images.githubusercontent.com/130107069/234136628-30f7c11b-e2f9-434a-acb1-e5cf8aa5a8be.png">
+
+Note the url this time is: http://localhost:4000/add-message?s=Pineapples. Similarily, the method handleRequest is found and the URL is given as it's paramenter. The keyword is found and it prints out the word after the "=" (or the first index after you split the URL string). However, because "
 
 <img width="471" alt="Screen Shot 2023-04-24 at 4 25 45 PM" src="https://user-images.githubusercontent.com/130107069/234136683-422f4c9a-f699-4168-add5-baa4b93ae3ea.png">
 
