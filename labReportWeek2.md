@@ -11,8 +11,15 @@ In order to achieve this, my code looks like this:
 Notes on what the code does: 
 * I first created String variable that starts as a empty string (this is where I will add the String requests and store them
 * the command line/url argument is then split from the "=" if the keyword "/add-message" is given
+* together is then updated to whatever together previously was plus the new string given in the URL
+* together is then returned 
+* if theres no key "\add-message" a error message is then returned 
+* The code in StringServer class ffunctions to start the server itself 
+
+The server:
 
 <img width="500" alt="Screen Shot 2023-04-24 at 4 24 55 PM" src="https://user-images.githubusercontent.com/130107069/234136592-387679c0-f312-443a-a273-3fe4e1a6282a.png">
+
 
 <img width="546" alt="Screen Shot 2023-04-24 at 4 25 14 PM" src="https://user-images.githubusercontent.com/130107069/234136628-30f7c11b-e2f9-434a-acb1-e5cf8aa5a8be.png">
 
