@@ -25,7 +25,7 @@ Note the url is: http://localhost:4000/add-message?s=Hello, if we trace the code
 
 <img width="546" alt="Screen Shot 2023-04-24 at 4 25 14 PM" src="https://user-images.githubusercontent.com/130107069/234136628-30f7c11b-e2f9-434a-acb1-e5cf8aa5a8be.png">
 
-Note the url this time is: http://localhost:4000/add-message?s=Pineapples. Similarily, the method handleRequest is found and the URL is given as it's paramenter. The keyword is found and it the URL is split at the equal sign. The 0th index has "s" so it enters the other if statement. Note from the previous section, together is currently "Hello", but with the new String found after the "=" in the URL, its updated to "Hello + "\n" + Pineapples" (the "\n" prints out a new line). The updated String stored in together is then shown on the server page.
+Note the url this time is: http://localhost:4000/add-message?s=Pineapples. Similarily, the method handleRequest is found and the URL is given as it's paramenter. The keyword is found and the URL is split at the equal sign. The 0th index has "s" so it enters the other if statement. Note from the previous section, together is currently "Hello", but with the new String found after the "=" in the URL, its updated to "Hello + "\n" + Pineapples" (the "\n" prints out a new line). The updated String stored in together is then shown on the server page.
 
 <img width="471" alt="Screen Shot 2023-04-24 at 4 25 45 PM" src="https://user-images.githubusercontent.com/130107069/234136683-422f4c9a-f699-4168-add5-baa4b93ae3ea.png">
 
