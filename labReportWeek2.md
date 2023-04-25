@@ -20,11 +20,11 @@ The server:
 
 <img width="500" alt="Screen Shot 2023-04-24 at 4 24 55 PM" src="https://user-images.githubusercontent.com/130107069/234136592-387679c0-f312-443a-a273-3fe4e1a6282a.png">
 
-Note the url is: "http://localhost:4000/add-message?s=Hello", if we trace the code with the input above in the URL, the handleRequest method is called. It notices that the key "/add-message" is found and enters the if statement. At this point, because this is the first time ".\add-message" is found, together is still the "". 
+Note the url is: "http://localhost:4000/add-message?s=Hello", if we trace the code with the input above in the URL, the handleRequest method is called. It notices that the key "/add-message" is found and enters the if statement. At this point, because this is the first time ".\add-message" is found, together is still an empty string. However, it is now updated with the given "Hello" that was found after the "=" in the URL. the variable together now equals "Hello"
 
 <img width="546" alt="Screen Shot 2023-04-24 at 4 25 14 PM" src="https://user-images.githubusercontent.com/130107069/234136628-30f7c11b-e2f9-434a-acb1-e5cf8aa5a8be.png">
 
-Note the url this time is: http://localhost:4000/add-message?s=Pineapples. Similarily, the method handleRequest is found and the URL is given as it's paramenter. The keyword is found and it prints out the word after the "=" (or the first index after you split the URL string). However, because "
+Note the url this time is: http://localhost:4000/add-message?s=Pineapples. Similarily, the method handleRequest is found and the URL is given as it's paramenter. The keyword is found and it prints out the word after the "=" (or the first index after you split the URL string). Note from the previous section, together is currently "Hello", but with the new String found after the "=" in the URL, its updated to "Hello + "\n" + Pineapples) (the "\n" prints out a new line). The updated String stored in together is then shown on the server page.
 
 <img width="471" alt="Screen Shot 2023-04-24 at 4 25 45 PM" src="https://user-images.githubusercontent.com/130107069/234136683-422f4c9a-f699-4168-add5-baa4b93ae3ea.png">
 
