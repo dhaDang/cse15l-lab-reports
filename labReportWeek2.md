@@ -27,9 +27,11 @@ Note the url is: "http://localhost:4000/add-message?s=Hello", if we trace the co
 Note the url this time is: http://localhost:4000/add-message?s=Pineapples. Similarily, the method handleRequest is found and the URL is given as it's paramenter. The keyword is found and it prints out the word after the "=" (or the first index after you split the URL string). Note from the previous section, together is currently "Hello", but with the new String found after the "=" in the URL, its updated to "Hello + "\n" + Pineapples" (the "\n" prints out a new line). The updated String stored in together is then shown on the server page.
 
 <img width="471" alt="Screen Shot 2023-04-24 at 4 25 45 PM" src="https://user-images.githubusercontent.com/130107069/234136683-422f4c9a-f699-4168-add5-baa4b93ae3ea.png">
+
 Note the url this time is: http://localhost:4000/add-message?s=Cherry. Similarily, the method handleRequest is found and the URL here is the argument passed into it. The key "/add-message" is found so the URL is passed into the if statement. it seems that the first argument has an s so it enters another if statement. Together is then updated to "Hello + "\n" + "Pineapples" + "\n" + "Cherry", and it's returned and shown on the server. 
 
 <img width="411" alt="Screen Shot 2023-04-24 at 4 26 29 PM" src="https://user-images.githubusercontent.com/130107069/234136761-c95292f0-6386-434a-809f-617aeecc531b.png">
+
 Note the url this time is: http://localhost:4000/. The URL is passed into the handleRequest method, but this time it doesn't see the key "/add-message" and doesn't enter the if statement. Due to the fact that it doesn't enter the if statement, the String variable is not updated and stays as "Hello + "\n" + "Pineapples" + "\n" + "Cherry". Instead of going into the if statement, it would just return "404 Not Found!" as seen in the screenshot. 
 
 
