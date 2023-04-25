@@ -11,6 +11,7 @@ In order to achieve this, my code looks like this:
 Notes on what the code does: 
 * I first created String variable that starts as a empty string and updates as more URLs are passed into the handleRequest method
 * the command line/url argument is then split from the "=" if the keyword "/add-message" is given
+* theres another if statement that checks the 0th element after the split equals "s" 
 * together is then updated to whatever together previously was plus the new string given in the URL
 * together is then returned 
 * if theres no key "\add-message" a error message is then returned 
