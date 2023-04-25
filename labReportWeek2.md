@@ -21,7 +21,7 @@ The server:
 
 <img width="500" alt="Screen Shot 2023-04-24 at 4 24 55 PM" src="https://user-images.githubusercontent.com/130107069/234136592-387679c0-f312-443a-a273-3fe4e1a6282a.png">
 
-Note the url is: "http://localhost:4000/add-message?s=Hello", if we trace the code with the input above in the URL, the handleRequest method is called with the URL passed in as it's argument. It notices that the key "/add-message" is found and enters the if statement. Here, the url is split at the equal sign and if the 0th index equals "s" it enters another if statement. At this point, because this is the first time ".\add-message" is found, together is still an empty string. However, it is now updated with the given "Hello" that was found after the "=" in the URL. the variable together now equals "Hello"
+Note the url is: http://localhost:4000/add-message?s=Hello, if we trace the code with the input above in the URL, the handleRequest method is called with the URL passed in as it's argument. It notices that the key "/add-message" is found and enters the if statement. Here, the url is split at the equal sign and if the 0th index equals "s" it enters another if statement. At this point, because this is the first time ".\add-message" is found, together is still an empty string. However, it is now updated with the given "Hello" that was found after the "=" in the URL. the variable together now equals "Hello"
 
 <img width="546" alt="Screen Shot 2023-04-24 at 4 25 14 PM" src="https://user-images.githubusercontent.com/130107069/234136628-30f7c11b-e2f9-434a-acb1-e5cf8aa5a8be.png">
 
