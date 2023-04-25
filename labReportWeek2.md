@@ -9,7 +9,7 @@ In order to achieve this, my code looks like this:
 <img width="807" alt="Screen Shot 2023-04-24 at 4 26 48 PM" src="https://user-images.githubusercontent.com/130107069/234136803-e9938e77-19b7-4f2f-b086-1719c362018c.png">
 
 Notes on what the code does: 
-* I first created String variable that starts as a empty string (this is where I will add the String requests and store them
+* I first created String variable that starts as a empty string and updates as more URLs are passed into the handleRequest method
 * the command line/url argument is then split from the "=" if the keyword "/add-message" is given
 * together is then updated to whatever together previously was plus the new string given in the URL
 * together is then returned 
