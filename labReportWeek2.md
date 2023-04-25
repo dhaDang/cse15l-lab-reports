@@ -29,7 +29,7 @@ Note the url this time is: http://localhost:4000/add-message?s=Pineapples. Simil
 
 <img width="471" alt="Screen Shot 2023-04-24 at 4 25 45 PM" src="https://user-images.githubusercontent.com/130107069/234136683-422f4c9a-f699-4168-add5-baa4b93ae3ea.png">
 
-Note the url this time is: http://localhost:4000/add-message?s=Cherry. Similarily, the method handleRequest is found and the URL here is the argument passed into it. The key "/add-message" is found so the URL is passed into the if statement. it seems that the first argument has an s so it enters another if statement. Together is then updated to "Hello + "\n" + "Pineapples" + "\n" + "Cherry", and it's returned and shown on the server. 
+Note the url this time is: http://localhost:4000/add-message?s=Cherry. Similarily, the method handleRequest is found and the URL here is the argument passed into it. The key "/add-message" is found so the URL is passed into the if statement. it seems that the first argument has an "s" so it enters another if statement. Together is then updated to "Hello + "\n" + "Pineapples" + "\n" + "Cherry", and it's returned and shown on the server. 
 
 <img width="411" alt="Screen Shot 2023-04-24 at 4 26 29 PM" src="https://user-images.githubusercontent.com/130107069/234136761-c95292f0-6386-434a-809f-617aeecc531b.png">
 
