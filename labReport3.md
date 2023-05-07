@@ -40,7 +40,7 @@ danielle@Danielles-MBP biomed % grep -c  12  1468-6708-3-1.txt
 
 Here, the option -c acts as a key to tell grep to count the amount of times "12" shows up in the same text file above. This shows that -c also works with number characters rather than solely alphabethical characters. This option with the grep command is useful for getting quick information on how many times certain numbers or words appear in long data files. 
 
-**2) Using grep the find lines within a file that doesn't match the given pattern 
+**2) Using grep the find lines within a file that doesn't match the given pattern**
 
 Using the biomed files in ./technical I was able to run this command: 
 
@@ -65,7 +65,7 @@ The output was:
 
 Using the -v option with grep, I was able to get all the lines in the file "1468-6708-3-1.txt" that doesnt have the word "health" in it. Here, grep is taking the file "1468-6708-3-1.txt" and avoiding all the lines that has a match with "health". This would be useful if I was looking for lines that didn't directly mention health.
 
-**3) Using grep to keep track of the line number of the corresponding line that matches a given pattern 
+**3) Using grep to keep track of the line number of the corresponding line that matches a given pattern**
 
 Using the biomed files in ./technical I was able to run this command: 
 
@@ -121,7 +121,7 @@ danielle@Danielles-MBP biomed % grep -n women  1468-6708-3-1.txt
 
 Here, the option -n or numberline is telling grep to go into the file "1468-6708-3-1.txt" and keep track of the numberline "women" appears as well as the actual content itself in the line. It would then output this information for me in the terminal. This would be useful if I was curious about women's health but didn't want to look through the whole text file. It would be a great reference point as to where information about women's health is in general, while also giving me a peak into the type of information on women's health each line focuses on. 
 
-**4) Using grep to find whole words that exactly matches a pattern rather than words that partially matches it
+**4) Using grep to find whole words that exactly matches a pattern rather than words that partially matches it**
 
 Grep can be a useful tool to find patterns within large files, however the command itself will output anything that might contain a pattern, rather than lines that matches the whole pattern itself. For example using grep with "a" can not only output matches with "a" but also anything that has "a" within it itself, like "apple". 
 
@@ -183,7 +183,7 @@ danielle@Danielles-MBP biomed % grep -w a 1468-6708-3-1.txt
 
 Here, -w is telling grep to go into the file "1468-6708-3-1.txt" and only output the lines that have "a" by itself, rather than output all the lines that has a word with "a" in it like "calculations". In other words, it outputs lines with "a" by itself rather that all the lines that has words with "a" within it. This helps minimize the amount of lines that would be outputted otherwise without -w and generally helps me sort through a large text file. 
 
-**sources: 
+**sources:**
 chat gbt!
 I used chat gbt (https://chat.openai.com/) and asked it for any useful and interesting grep options for inspiration. 
 <img width="482" alt="Screen Shot 2023-05-06 at 4 04 16 PM" src="https://user-images.githubusercontent.com/130107069/236649698-6b6493fc-9237-476e-a514-c3c229df445a.png">
