@@ -79,7 +79,7 @@ danielle@Danielles-MBP biomed % grep -n death 1468-6708-3-1.txt
 ```
 (with line 1 being input and the following line being the output)
 
-Here, the option -n acts as a key to tell grep to look into the file "1468-6708-3-1.txt" and kep track of the lines that includes the pattern "death". It would then output the numberline and the actual content of the line that has "death" in it. This is a useful option that can quickly provide information on where a certain phrase/pattern is located. 
+Here, the option -n acts as a key to tell grep to look into the file "1468-6708-3-1.txt" and keep track of the lines that includes the pattern "death". It would then output the numberline and the actual content of the line that has "death" in it. This is a useful option that can quickly provide information on where a certain phrase/pattern is located. 
 
 Another way I used grep with the option numberline is:
 
