@@ -7,7 +7,7 @@ The command I choose to focus on for this lab report is
 grep 
 ```
 
-**What does grep do? 
+**What does grep do?**
 
 Grep is a command that searches for a given pattern within files. Furthermore, running grep with a string and a text file will output the lines in the text file that matches the string. 
 
@@ -17,9 +17,9 @@ The general syntax for grep is:
 grep [option] [pattern] [file]
 ```
 
-**Some options we can run with grep to manipulate how it matches the pattern and files:
+**Some options we can run with grep to manipulate how it matches the pattern and files:**
 
-**1) Using grep to get the amount of times a certain pattern matches the text file contents. 
+**1) Using grep to get the amount of times a certain pattern matches the text file contents.**
 
 Using the biomed files in ./technical I was able to run this command: 
 
