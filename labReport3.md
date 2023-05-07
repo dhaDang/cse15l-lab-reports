@@ -119,7 +119,7 @@ danielle@Danielles-MBP biomed % grep -n women  1468-6708-3-1.txt
 ```
 (with line one being the input and the following lines the output) 
 
-Here, the option -n or numberline is telling grep to go into the file "1468-6708-3-1.txt" and keep track of the numberline "women" appears as well as the actual content itself in the line. It would then output this information for me in the terminal. This would be useful if I was curious about women's health but didn't want to look through the whole text file. It would be a great reference point as to where information about women's health is in general, while also giving me a peak into the type of information on women's health each line focuses on. 
+Here, the option -n or numberline is telling grep to go into the file "1468-6708-3-1.txt" and keep track of the numberline "women" appears as well as the actual content itself in the line. It would then output this information for me in the terminal. This would be useful if I was curious about women's health but didn't want to look through the whole text file. It would be a great reference point as to where information about women's health is in general, while also giving me a peek into the type of information on women's health each line focuses on. 
 
 **4) Using grep to find whole words that exactly matches a pattern rather than words that partially matches it**
 
