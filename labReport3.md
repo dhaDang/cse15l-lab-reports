@@ -948,7 +948,7 @@ Here, -w is telling grep to go into the file "1468-6708-3-1.txt" and only output
 **sources:**
 chat gbt!
 I used chat gbt (https://chat.openai.com/) and asked it for any useful and interesting grep options for inspiration. 
-The prompt I gave it was "hello! Can I have some useful grep commands" 
+The prompt I gave it was "hello! Can I have some useful grep commands" (Please see the page below for the prompt I gave it and the output it created for me!) 
 
 <img width="400" alt="Screen Shot 2023-05-18 at 1 17 36 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/74b70257-3059-4b9c-be7a-491fef9aacfa">
 
