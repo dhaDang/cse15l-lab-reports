@@ -948,10 +948,8 @@ Here, -w is telling grep to go into the file "1468-6708-3-1.txt" and only output
 **sources:**
 chat gbt!
 I used chat gbt (https://chat.openai.com/) and asked it for any useful and interesting grep options for inspiration. 
-<img width="482" alt="Screen Shot 2023-05-06 at 4 04 16 PM" src="https://user-images.githubusercontent.com/130107069/236649698-6b6493fc-9237-476e-a514-c3c229df445a.png"> 
-
 The prompt I gave it was "hello! Can I have some useful grep commands" 
 
-<img width="427" alt="Screen Shot 2023-05-18 at 1 17 36 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/74b70257-3059-4b9c-be7a-491fef9aacfa">
+<img width="400" alt="Screen Shot 2023-05-18 at 1 17 36 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/74b70257-3059-4b9c-be7a-491fef9aacfa">
 
 I was able to derive the commands and a little understanding of what each does, and from there I applied it to the files in ./technical and see the commands in action! This helped me further understand what each command does and think of ways they would all individually be useful in certain circumstances.  
