@@ -84,7 +84,7 @@ Code after changes:
 
 **Step Five: Run the tests, demonstrating that they fail**
 
-**Step Six: Commit and push the resulting change to your Github account. 
+**Step Six: Commit and push the resulting change to your Github account.**
 
 Now that I had fixed my code, I want to commit and push the code that now properly works into my github account. 
 
