@@ -22,13 +22,15 @@ than spending all the extra time trying to type out ssh and my account, I was ab
 
 **Step Two: Clone your fork of the repository from your Github account**
 
-<img width="567" alt="Screen Shot 2023-05-19 at 9 11 52 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/ea30b812-b6ff-45c4-bb30-d772fe05acad">
+<img width="689" alt="Screen Shot 2023-05-22 at 4 30 40 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/d3c3cbed-5ee3-4a1c-ad8d-b7ed90bf276d">
+
 
 In order to clone the fork of the repository from my github account I typed out: 
 
 ```
-<g> <i> <t> <space> <c> <l> <o> <n> <e> <Command-C> **the ssh link of the github I wanted to clone** <Command-V> to paste it into my terminal <enter> 
+<g> <i> <t> <space> <c> <l> <o> <n> <e> <Command-C> **the ssh link of the github repo I wanted to clone** <Command-V> to paste it into my terminal <enter> 
 ```
+
 The Command-C and Command-V allowed me to paste the link of the repository I wanted to copy faster and easier. Rather than using my mouse I was able to quickly used these commands 
 and complete my tasks in a fast manner. 
 
@@ -37,6 +39,13 @@ Output:
 <img width="693" alt="Screen Shot 2023-05-22 at 3 59 22 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/60985f41-b9f6-4c6c-b303-54b2059733b4">
 
 **Step Three: Run the tests, demonstrating that they fail**
+In order to run the tests I must first enter the appropriate directory 
+
+```
+<ls> <enter> <cd lab7> <enter>
+```
+
+<img width="581" alt="Screen Shot 2023-05-22 at 4 31 57 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/b94606de-f1b9-4e27-990b-5a359513ead7">
 
 I knew I had previously ran the tests, therefore it was somewhere in my history. With this understanding, I clicked these keys: 
 
@@ -54,11 +63,13 @@ Another up arrow key allowed me to retrieve the next part of terminal work requi
 ```
 Output:
 
-<img width="694" alt="Screen Shot 2023-05-21 at 10 00 43 AM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/aab19d5c-f122-464b-a7f7-418544c1608d">
+<img width="691" alt="Screen Shot 2023-05-22 at 4 33 14 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/f3cbe80b-cc28-405d-90ba-50f331af9ae8">
 
 The terminal indicates that there is a failing test in the java file. 
 
 **Step Four: Edit the code file to fix the failing test**
+
+<img width="422" alt="Screen Shot 2023-05-22 at 4 34 34 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/0d161bbb-9f09-4827-938c-d98944505c9b">
 
 To enter the code and start editing:
 ```
@@ -72,7 +83,7 @@ Once inside the folder to fix the code I pressed:
 
 Code after changes:
 
-<img width="694" alt="Screen Shot 2023-05-21 at 10 16 08 AM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/d842d118-a2f8-423c-a907-575ca35b1ba1">
+<img width="616" alt="Screen Shot 2023-05-22 at 4 36 32 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/0e37bd2e-22b0-41d1-a2fa-ec877d30182e">
 
 **Step Five: Run the tests, demonstrating that they fail**
 
@@ -85,7 +96,7 @@ To do this, the keys used were:
 ```
 Output of this: 
 
-<img width="697" alt="Screen Shot 2023-05-22 at 11 53 16 AM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/9da1f10d-8b85-419a-b1cd-342e4738c909">
+<img width="1014" alt="Screen Shot 2023-05-22 at 4 38 15 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/b4eb011e-83c8-4ba3-988c-a1c60be9b549">
 
 This indicates that the code was fixed and all the tests that failed previously is now passing 
 
@@ -96,15 +107,15 @@ Now that I had fixed my code, I want to commit and push the code that now proper
 I did this using the following keys: 
 
 ```
-<git add . > <enter> <git commit -a changed> <enter> <git push> <enter> 
+<git add . > <enter> <git commit -m changed> <enter> <git push> <enter> 
 ```
 The output of these actions is: 
 
-<img width="315" alt="Screen Shot 2023-05-22 at 11 59 33 AM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/e2088706-9f7b-499c-9c3a-381c738722e6">
-
-
-<img width="509" alt="Screen Shot 2023-05-22 at 11 59 55 AM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/482b89a9-a9be-4712-ac85-d6e9c6f18585">
+<img width="554" alt="Screen Shot 2023-05-22 at 4 39 12 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/6a9f6324-c45c-46c4-9a5c-46d7448ac07a">
 
 The changes are now officially made and pushed to github! 
+
+<img width="653" alt="Screen Shot 2023-05-22 at 4 40 19 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/a825993e-8f24-4c43-9731-c3fb63c054fb">
+
 
 Now we had successfully changed our code and fixed it, and commit and push it to git. 
