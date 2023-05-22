@@ -92,6 +92,7 @@ To do this, the keys used were:
 <Ctrl C> **I copied the Junit javac from week 3 on the cse15 spring website into the terminal first** <Ctrl V> **paste into terminal** <enter> <Ctrl C> <Ctrl C> **Copied Junit java from week 3 onto cse15 sprin website into the terminal** <ListExamplesTests> **the file I want to run JUnit On**  <enter> 
 ```
 Output of this: 
+
 <img width="697" alt="Screen Shot 2023-05-22 at 11 53 16 AM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/9da1f10d-8b85-419a-b1cd-342e4738c909">
 
 This indicates that the code was fixed and all the tests that failed previously is now passing 
