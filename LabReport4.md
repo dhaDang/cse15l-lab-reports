@@ -84,6 +84,18 @@ Code after changes:
 
 **Step Five: Run the tests, demonstrating that they fail**
 
+Now that we made the changes to fix the code in ListExamples, we can run JUnit again to indicate it properly works. 
+
+To do this, the keys used were: 
+
+```
+<Ctrl C> **I copied the Junit javac from week 3 on the cse15 spring website into the terminal first** <Ctrl V> **paste into terminal** <enter> <Ctrl C> <Ctrl C> **Copied Junit java from week 3 onto cse15 sprin website into the terminal** <ListExamplesTests> **the file I want to run JUnit On**  <enter> 
+```
+Output of this: 
+<img width="697" alt="Screen Shot 2023-05-22 at 11 53 16 AM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/9da1f10d-8b85-419a-b1cd-342e4738c909">
+
+This indicates that the code was fixed and all the tests that failed previously is now passing 
+
 **Step Six: Commit and push the resulting change to your Github account.**
 
 Now that I had fixed my code, I want to commit and push the code that now properly works into my github account. 
@@ -91,12 +103,14 @@ Now that I had fixed my code, I want to commit and push the code that now proper
 I did this using the following keys: 
 
 ```
-<git commit -a [main 8295a38] changed!> <enter> <git push> <enter password> <enter> 
+<git add . > <enter> <git commit -a changed> <enter> <git push> <enter> 
 ```
 The output of these actions is: 
 
-<img width="671" alt="Screen Shot 2023-05-21 at 12 12 50 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/829f27b3-d97a-475d-92fe-3ad40ce3eb81">
+<img width="315" alt="Screen Shot 2023-05-22 at 11 59 33 AM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/e2088706-9f7b-499c-9c3a-381c738722e6">
+
+<img width="509" alt="Screen Shot 2023-05-22 at 11 59 55 AM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/482b89a9-a9be-4712-ac85-d6e9c6f18585">
 
 The changes are now officially made and pushed to github! 
 
-
+Now we had successfully changed our code and fixed it, and commit and push it to git. 
