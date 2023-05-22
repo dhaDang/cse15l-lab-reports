@@ -14,6 +14,7 @@ I had previously logged into my ieng6 account, therefore instead of typing out "
 <up> <up> <up> <enter>
 ```
 Output:
+
 <img width="416" alt="Screen Shot 2023-05-22 at 3 58 48 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/94f82024-120f-4acb-a198-01af9d71c9ea">
 
 The up command allowed me to go through my history and retrieve the input from the last time I logged into my ieng6 account. This saved a lot of time, and rather 
