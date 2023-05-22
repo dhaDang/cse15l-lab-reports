@@ -5,7 +5,8 @@ Lab Report task: Do steps 4-9 listed in the lab write up and provide screenshots
 
 **Step One: Log into ieng6**
 
-<img width="523" alt="Screen Shot 2023-05-19 at 8 56 40 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/789b8041-a407-433e-a319-88ffe6762b9b">
+
+<img width="549" alt="Screen Shot 2023-05-22 at 3 58 22 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/6b40cd3d-d92e-411e-81e8-c87696b7f6bd">
 
 I had previously logged into my ieng6 account, therefore instead of typing out "ssh cs15lsp23jw@ieng6" I was able to type this instead:
 
@@ -13,8 +14,7 @@ I had previously logged into my ieng6 account, therefore instead of typing out "
 <up> <up> <up> <enter>
 ```
 Output:
-
-<img width="576" alt="Screen Shot 2023-05-19 at 9 00 12 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/b99e1140-d717-4612-91d8-1c5c232da4c1">
+<img width="416" alt="Screen Shot 2023-05-22 at 3 58 48 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/94f82024-120f-4acb-a198-01af9d71c9ea">
 
 The up command allowed me to go through my history and retrieve the input from the last time I logged into my ieng6 account. This saved a lot of time, and rather 
 than spending all the extra time trying to type out ssh and my account, I was able do so with only a few up arrow commands. 
@@ -26,25 +26,16 @@ than spending all the extra time trying to type out ssh and my account, I was ab
 In order to clone the fork of the repository from my github account I typed out: 
 
 ```
-<g> <i> <t> <space> <c> <l> <o> <n> <e> <Command-C> the github I wanted to clone <Command-V> to paste it into my terminal <enter> 
+<g> <i> <t> <space> <c> <l> <o> <n> <e> <Command-C> **the ssh link of the github I wanted to clone** <Command-V> to paste it into my terminal <enter> 
 ```
 The Command-C and Command-V allowed me to paste the link of the repository I wanted to copy faster and easier. Rather than using my mouse I was able to quickly used these commands 
 and complete my tasks in a fast manner. 
 
 Output: 
 
-<img width="602" alt="Screen Shot 2023-05-21 at 9 49 55 AM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/2710f51c-fc39-4831-92f2-f4b3db6c959c">
+<img width="693" alt="Screen Shot 2023-05-22 at 3 59 22 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/60985f41-b9f6-4c6c-b303-54b2059733b4">
 
 **Step Three: Run the tests, demonstrating that they fail**
-
-Before I was able to run the tests I first had to enter the appropriate directory for the purposes of this lab report: 
-
-<img width="695" alt="Screen Shot 2023-05-21 at 9 53 50 AM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/f3f302a0-39e8-4199-8878-de124d6e151a">
-
-I did these with the keys:
-```
-<ls> <enter> <cd lab7> <enter> <ls> <enter>
-```
 
 I knew I had previously ran the tests, therefore it was somewhere in my history. With this understanding, I clicked these keys: 
 
