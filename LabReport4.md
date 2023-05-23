@@ -116,7 +116,7 @@ I copied the Junit javac from week 3 on the cse15 spring website into the termin
 paste into terminal
 <enter> 
 <Ctrl C>
-Copied Junit java from week 3 onto cse15 sprin website into the terminal
+Copied Junit java from week 3 onto cse15 spring website into the terminal
 <ListExamplesTests> 
 the file I want to run JUnit On
 <enter> 
