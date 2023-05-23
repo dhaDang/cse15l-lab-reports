@@ -64,7 +64,8 @@ Output:
 ```
 <up> <up> <up> <up> <up> <up> <up> <up> <up> <enter>
 ```
-* Another up arrow key allowed me to retrieve the next part of terminal work required to run JUnit 
+* A nother up arrow key allowed me to retrieve the next part of terminal work required to run JUnit 
+
 ```
 <up> <up> <up> <up> <up> <up> <up> <up> <up> <up> <enter>
 ```
@@ -72,13 +73,14 @@ Output:
 
 <img width="691" alt="Screen Shot 2023-05-22 at 4 33 14 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/f3cbe80b-cc28-405d-90ba-50f331af9ae8">
 
-* The terminal indicates that there is a failing test in the java file. 
+*The terminal indicates that there is a failing test in the java file. 
 
 **Step Four: Edit the code file to fix the failing test**
 
 <img width="422" alt="Screen Shot 2023-05-22 at 4 34 34 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/0d161bbb-9f09-4827-938c-d98944505c9b">
 
 * To enter the code and start editing:
+
 ```
 <vim> 
 <space> 
@@ -87,6 +89,7 @@ Output:
 ```
 
 * Once inside the folder to fix the code I pressed:
+
 ```
 <k> <k> <k> <k> <k> <k> 
 at this point I was at the line that needed to be fix  
@@ -144,6 +147,7 @@ I did this using the following keys:
 <git push> 
 <enter> 
 ```
+
 The output of these actions is: 
 
 <img width="554" alt="Screen Shot 2023-05-22 at 4 39 12 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/6a9f6324-c45c-46c4-9a5c-46d7448ac07a">
