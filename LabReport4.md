@@ -64,7 +64,8 @@ Output:
 ```
 <up> <up> <up> <up> <up> <up> <up> <up> <up> <enter>
 ```
-* A nother up arrow key allowed me to retrieve the next part of terminal work required to run JUnit 
+
+* Another up arrow key allowed me to retrieve the next part of terminal work required to run JUnit 
 
 ```
 <up> <up> <up> <up> <up> <up> <up> <up> <up> <up> <enter>
