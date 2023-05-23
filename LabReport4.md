@@ -28,14 +28,14 @@ than spending all the extra time trying to type out ssh and my account, I was ab
 In order to clone the fork of the repository from my github account I typed out: 
 
 ```
-<g> <i> <t> <space> <c> <l> <o> <n> <e> <Command-C> 
+<git> <space> <clone> <Ctrl-C> 
 *the ssh link of the github repo I wanted to clone* 
-<Command-V> 
+<Ctrl-V> 
 to paste it into my terminal 
 <enter> 
 ```
 
-The Command-C and Command-V allowed me to paste the link of the repository I wanted to copy faster and easier. Rather than using my mouse I was able to quickly used these commands 
+The Ctrl-C and Ctrl-V allowed me to paste the link of the repository I wanted to copy faster and easier. Rather than using my mouse I was able to quickly used these commands 
 and complete my tasks in a fast manner. 
 
 Output: 
