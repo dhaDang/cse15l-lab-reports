@@ -144,6 +144,9 @@ I did this using the following keys:
 
 The output of these actions is: 
 
+<img width="383" alt="Screen Shot 2023-05-22 at 9 36 19 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/7fc82688-7f4d-493a-bc91-dd433c39c48e">
+
+
 <img width="554" alt="Screen Shot 2023-05-22 at 4 39 12 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/6a9f6324-c45c-46c4-9a5c-46d7448ac07a">
 
 * The changes are now officially made and pushed to github! 
