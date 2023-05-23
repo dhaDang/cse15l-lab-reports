@@ -63,13 +63,12 @@ Output:
 * Then in order to run JUnit and run the tests, I used the up arrow keys to go through my history and retrieve it with these keys: 
 ```
 <up> <up> <up> <up> <up> <up> <up> <up> <up> <enter>
+Compile Junit
+<up> <up> <up> <up> <up> <up> <up> <up> <up> <up> <enter>
+Run Junit 
 ```
 
 * Another up arrow key allowed me to retrieve the next part of terminal work required to run JUnit 
-
-```
-<up> <up> <up> <up> <up> <up> <up> <up> <up> <up> <enter>
-```
 
 Output:
 
