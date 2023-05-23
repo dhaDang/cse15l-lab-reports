@@ -17,7 +17,7 @@ Output:
 
 <img width="416" alt="Screen Shot 2023-05-22 at 3 58 48 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/94f82024-120f-4acb-a198-01af9d71c9ea">
 
-The up command allowed me to go through my history and retrieve the input from the last time I logged into my ieng6 account. This saved a lot of time, and rather 
+* The up command allowed me to go through my history and retrieve the input from the last time I logged into my ieng6 account. This saved a lot of time, and rather 
 than spending all the extra time trying to type out ssh and my account, I was able do so with only a few up arrow commands. 
 
 **Step Two: Clone your fork of the repository from your Github account**
@@ -28,7 +28,7 @@ than spending all the extra time trying to type out ssh and my account, I was ab
 In order to clone the fork of the repository from my github account I typed out: 
 
 ```
-<g> <i> <t> <space> <c> <l> <o> <n> <e> <Command-C> **the ssh link of the github repo I wanted to clone** <Command-V> to paste it into my terminal <enter> 
+<g> <i> <t> <space> <c> <l> <o> <n> <e> <Command-C> *the ssh link of the github repo I wanted to clone* <Command-V> to paste it into my terminal <enter> 
 ```
 
 The Command-C and Command-V allowed me to paste the link of the repository I wanted to copy faster and easier. Rather than using my mouse I was able to quickly used these commands 
