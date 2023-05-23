@@ -89,17 +89,17 @@ To enter the code and start editing:
 Once inside the folder to fix the code I pressed:
 ```
 <k> <k> <k> <k> <k> <k> 
-*at this point I was at the line that needed to be fix*  
+at this point I was at the line that needed to be fix  
 <j> <j> <j> <j> <j> <j> <j> <j> <j> <j> <j> 
-*at this point I'm positioned between the "x" and "1" in "index1 += 1;"* 
+at this point I'm positioned between the "x" and "1" in "index1 += 1;" 
 <x> 
-*to delete the 2* 
+to delete the 2 
 <i> 
-*to get into insert mode* 
+to get into insert mode 
 <2> 
 <esc> 
 <:wq> 
-*to quit and save*
+to quit and save
 ```
 
 Code after changes:
@@ -114,14 +114,14 @@ To do this, the keys used were:
 
 ```
 <Ctrl C> 
-*I copied the Junit javac from week 3 on the cse15 spring website into the terminal first*
+I copied the Junit javac from week 3 on the cse15 spring website into the terminal first
 <Ctrl V> 
-*paste into terminal*
+paste into terminal
 <enter> 
 <Ctrl C>
-*Copied Junit java from week 3 onto cse15 sprin website into the terminal* 
+Copied Junit java from week 3 onto cse15 sprin website into the terminal
 <ListExamplesTests> 
-*the file I want to run JUnit On*
+the file I want to run JUnit On
 <enter> 
 ```
 Output of this: 
