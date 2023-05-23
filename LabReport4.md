@@ -11,7 +11,7 @@ Lab Report task: Do steps 4-9 listed in the lab write up and provide screenshots
 * I had previously logged into my ieng6 account, therefore instead of typing out "ssh cs15lsp23jw@ieng6" I was able to type this instead:
 
 ```
-<up> <up> <up> <enter>
+<up> <up> <up> <enter> <password> <enter>
 ```
 Output:
 
