@@ -57,18 +57,11 @@ Output:
 * I knew I had previously ran the tests, therefore it was somewhere in my history. With this understanding, I clicked these keys: 
 
 ```
-<up> <up> <up> <up> <up> <up> <enter>
-```
-
-* Then in order to run JUnit and run the tests, I used the up arrow keys to go through my history and retrieve it with these keys: 
-```
 <up> <up> <up> <up> <up> <up> <up> <up> <up> <enter>
 Compile Junit
 <up> <up> <up> <up> <up> <up> <up> <up> <up> <up> <enter>
 Run Junit 
 ```
-
-* Another up arrow key allowed me to retrieve the next part of terminal work required to run JUnit 
 
 Output:
 
@@ -153,9 +146,8 @@ The output of these actions is:
 
 <img width="554" alt="Screen Shot 2023-05-22 at 4 39 12 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/6a9f6324-c45c-46c4-9a5c-46d7448ac07a">
 
-The changes are now officially made and pushed to github! 
+* The changes are now officially made and pushed to github! 
 
 <img width="653" alt="Screen Shot 2023-05-22 at 4 40 19 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/a825993e-8f24-4c43-9731-c3fb63c054fb">
-
 
 Now we had successfully changed our code and fixed it, and commit and push it to git. 
