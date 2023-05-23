@@ -70,6 +70,7 @@ Output:
 ```
 <up> <up> <up> <up> <up> <up> <up> <up> <up> <up> <enter>
 ```
+
 Output:
 
 <img width="691" alt="Screen Shot 2023-05-22 at 4 33 14 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/f3cbe80b-cc28-405d-90ba-50f331af9ae8">
