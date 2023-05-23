@@ -28,7 +28,11 @@ than spending all the extra time trying to type out ssh and my account, I was ab
 In order to clone the fork of the repository from my github account I typed out: 
 
 ```
-<g> <i> <t> <space> <c> <l> <o> <n> <e> <Command-C> *the ssh link of the github repo I wanted to clone* <Command-V> to paste it into my terminal <enter> 
+<g> <i> <t> <space> <c> <l> <o> <n> <e> <Command-C> 
+*the ssh link of the github repo I wanted to clone* 
+<Command-V> 
+to paste it into my terminal 
+<enter> 
 ```
 
 The Command-C and Command-V allowed me to paste the link of the repository I wanted to copy faster and easier. Rather than using my mouse I was able to quickly used these commands 
@@ -42,7 +46,10 @@ Output:
 In order to run the tests I must first enter the appropriate directory 
 
 ```
-<ls> <enter> <cd lab7> <enter>
+<ls> 
+<enter> 
+<cd lab7> 
+<enter>
 ```
 
 <img width="581" alt="Screen Shot 2023-05-22 at 4 31 57 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/b94606de-f1b9-4e27-990b-5a359513ead7">
@@ -73,12 +80,26 @@ The terminal indicates that there is a failing test in the java file.
 
 To enter the code and start editing:
 ```
-<vim> <space> <ListExamples.java> 
+<vim> 
+<space> 
+<ListExamples.java> 
+<enter>
 ```
 
 Once inside the folder to fix the code I pressed:
 ```
-<k> <k> <k> <k> <k> <k> *at this point I was at the line that needed to be fix*  <j> <j> <j> <j> <j> <j> <j> <j> <j> <j> <j> *at this point I'm positioned between the "x" and "1" in "index1 += 1;"* <x> *to delete the 2* <i> *to get into insert mode* <2> <esc> <:wq> *to quit and save*
+<k> <k> <k> <k> <k> <k> 
+*at this point I was at the line that needed to be fix*  
+<j> <j> <j> <j> <j> <j> <j> <j> <j> <j> <j> 
+*at this point I'm positioned between the "x" and "1" in "index1 += 1;"* 
+<x> 
+*to delete the 2* 
+<i> 
+*to get into insert mode* 
+<2> 
+<esc> 
+<:wq> 
+*to quit and save*
 ```
 
 Code after changes:
@@ -92,7 +113,16 @@ Now that we made the changes to fix the code in ListExamples, we can run JUnit a
 To do this, the keys used were: 
 
 ```
-<Ctrl C> **I copied the Junit javac from week 3 on the cse15 spring website into the terminal first** <Ctrl V> **paste into terminal** <enter> <Ctrl C> <Ctrl C> **Copied Junit java from week 3 onto cse15 sprin website into the terminal** <ListExamplesTests> **the file I want to run JUnit On**  <enter> 
+<Ctrl C> 
+*I copied the Junit javac from week 3 on the cse15 spring website into the terminal first*
+<Ctrl V> 
+*paste into terminal*
+<enter> 
+<Ctrl C>
+*Copied Junit java from week 3 onto cse15 sprin website into the terminal* 
+<ListExamplesTests> 
+*the file I want to run JUnit On*
+<enter> 
 ```
 Output of this: 
 
@@ -107,7 +137,12 @@ Now that I had fixed my code, I want to commit and push the code that now proper
 I did this using the following keys: 
 
 ```
-<git add . > <enter> <git commit -m changed> <enter> <git push> <enter> 
+<git add . > 
+<enter> 
+<git commit -m changed> 
+<enter> 
+<git push> 
+<enter> 
 ```
 The output of these actions is: 
 
