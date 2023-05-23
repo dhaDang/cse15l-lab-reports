@@ -8,7 +8,7 @@ Lab Report task: Do steps 4-9 listed in the lab write up and provide screenshots
 
 <img width="549" alt="Screen Shot 2023-05-22 at 3 58 22 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/6b40cd3d-d92e-411e-81e8-c87696b7f6bd">
 
-I had previously logged into my ieng6 account, therefore instead of typing out "ssh cs15lsp23jw@ieng6" I was able to type this instead:
+* I had previously logged into my ieng6 account, therefore instead of typing out "ssh cs15lsp23jw@ieng6" I was able to type this instead:
 
 ```
 <up> <up> <up> <enter>
@@ -25,7 +25,7 @@ than spending all the extra time trying to type out ssh and my account, I was ab
 <img width="689" alt="Screen Shot 2023-05-22 at 4 30 40 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/d3c3cbed-5ee3-4a1c-ad8d-b7ed90bf276d">
 
 
-In order to clone the fork of the repository from my github account I typed out: 
+* In order to clone the fork of the repository from my github account I typed out: 
 
 ```
 <git> <space> <clone> <Ctrl-C> 
@@ -35,7 +35,7 @@ to paste it into my terminal
 <enter> 
 ```
 
-The Ctrl-C and Ctrl-V allowed me to paste the link of the repository I wanted to copy faster and easier. Rather than using my mouse I was able to quickly used these commands 
+* The Ctrl-C and Ctrl-V allowed me to paste the link of the repository I wanted to copy faster and easier. Rather than using my mouse I was able to quickly used these commands 
 and complete my tasks in a fast manner. 
 
 Output: 
@@ -43,7 +43,7 @@ Output:
 <img width="693" alt="Screen Shot 2023-05-22 at 3 59 22 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/60985f41-b9f6-4c6c-b303-54b2059733b4">
 
 **Step Three: Run the tests, demonstrating that they fail**
-In order to run the tests I must first enter the appropriate directory 
+* In order to run the tests I must first enter the appropriate directory 
 
 ```
 <ls> 
@@ -54,17 +54,17 @@ In order to run the tests I must first enter the appropriate directory
 
 <img width="581" alt="Screen Shot 2023-05-22 at 4 31 57 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/b94606de-f1b9-4e27-990b-5a359513ead7">
 
-I knew I had previously ran the tests, therefore it was somewhere in my history. With this understanding, I clicked these keys: 
+* I knew I had previously ran the tests, therefore it was somewhere in my history. With this understanding, I clicked these keys: 
 
 ```
 <up> <up> <up> <up> <up> <up> <enter>
 ```
 
-Then in order to run JUnit and run the tests, I used the up arrow keys to go through my history and retrieve it with these keys: 
+* Then in order to run JUnit and run the tests, I used the up arrow keys to go through my history and retrieve it with these keys: 
 ```
 <up> <up> <up> <up> <up> <up> <up> <up> <up> <enter>
 ```
-Another up arrow key allowed me to retrieve the next part of terminal work required to run JUnit 
+* Another up arrow key allowed me to retrieve the next part of terminal work required to run JUnit 
 ```
 <up> <up> <up> <up> <up> <up> <up> <up> <up> <up> <enter>
 ```
@@ -72,13 +72,13 @@ Output:
 
 <img width="691" alt="Screen Shot 2023-05-22 at 4 33 14 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/f3cbe80b-cc28-405d-90ba-50f331af9ae8">
 
-The terminal indicates that there is a failing test in the java file. 
+* The terminal indicates that there is a failing test in the java file. 
 
 **Step Four: Edit the code file to fix the failing test**
 
 <img width="422" alt="Screen Shot 2023-05-22 at 4 34 34 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/0d161bbb-9f09-4827-938c-d98944505c9b">
 
-To enter the code and start editing:
+* To enter the code and start editing:
 ```
 <vim> 
 <space> 
@@ -86,7 +86,7 @@ To enter the code and start editing:
 <enter>
 ```
 
-Once inside the folder to fix the code I pressed:
+* Once inside the folder to fix the code I pressed:
 ```
 <k> <k> <k> <k> <k> <k> 
 at this point I was at the line that needed to be fix  
@@ -108,7 +108,7 @@ Code after changes:
 
 **Step Five: Run the tests, demonstrating that they fail**
 
-Now that we made the changes to fix the code in ListExamples, we can run JUnit again to indicate it properly works. 
+* Now that we made the changes to fix the code in ListExamples, we can run JUnit again to indicate it properly works. 
 
 To do this, the keys used were: 
 
@@ -128,11 +128,11 @@ Output of this:
 
 <img width="1014" alt="Screen Shot 2023-05-22 at 4 38 15 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/b4eb011e-83c8-4ba3-988c-a1c60be9b549">
 
-This indicates that the code was fixed and all the tests that failed previously is now passing 
+* This indicates that the code was fixed and all the tests that failed previously is now passing 
 
 **Step Six: Commit and push the resulting change to your Github account.**
 
-Now that I had fixed my code, I want to commit and push the code that now properly works into my github account. 
+* Now that I had fixed my code, I want to commit and push the code that now properly works into my github account. 
 
 I did this using the following keys: 
 
