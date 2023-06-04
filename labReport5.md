@@ -106,6 +106,7 @@ appears. Its a simple but often overlooked bug!
 The file and directory structure needed is as follows. I made a folder called `LABREPORT` and within that folder I had two other ones called `javafile` and `script`. Inside `javafile` is where the `hello.class` and `hello.java` files are stored. On the other hand, the `script` folder contains the bash script `help.sh`. 
 
 This is what the structure looks like on Visual Studio Code: 
+
 <img width="223" alt="Screenshot 2023-06-04 at 1 56 37 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/3c7ca343-a570-4352-bcb3-3e951d8f3c44">
 
 *The contents of the file before fixing the bug:*
