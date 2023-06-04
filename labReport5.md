@@ -11,7 +11,7 @@ Student submission:
 
 Hello! I am using my Macbook Pro 14 on Visual Studio Code. I'm trying to run my `hello.java` file that I've created using a bash script `help.sh` that should compile and run it. Everything is being done on the terminal. 
 
-2) Detail the symptom you're seeing. Be speicifc; include both what you're seeing and what you expected to see instead. Screenshots are great, copy-pasted terminal output is also great. Avvoid saying "it doesnt work". 
+2) Detail the symptom you're seeing. Be specific; include both what you're seeing and what you expected to see instead. Screenshots are great, copy-pasted terminal output is also great. Avvoid saying "it doesnt work". 
 
 Right now, I'm trying to run my bash script `help.sh` and use it compile the code from `intro.java`. 
 This is what the bash script looks like:
