@@ -11,7 +11,7 @@ Student submission:
 
 Hello! I am using my Macbook Pro 14 on Visual Studio Code. I'm trying to run my `hello.java` file that I've created using a bash script `help.sh` that should compile and run it. Everything is being done on the terminal. 
 
-2) Detail the symptom you're seeing. Be specific; include both what you're seeing and what you expected to see instead. Screenshots are great, copy-pasted terminal output is also great. Avvoid saying "it doesnt work". 
+**Detail the symptom you're seeing. Be specific; include both what you're seeing and what you expected to see instead. Screenshots are great, copy-pasted terminal output is also great. Avvoid saying "it doesnt work".** 
 
 Right now, I'm trying to run my bash script `help.sh` and use it compile the code from `intro.java`. 
 This is what the bash script looks like:
@@ -36,7 +36,7 @@ However, I looked at past labs and worksheets and to run the bash script I know 
 
 <img width="407" alt="Screenshot 2023-06-04 at 1 24 40 PM" src="https://github.com/dhaDang/cse15l-lab-reports/assets/130107069/c7720cb9-a369-4b84-9ce8-4e378619d10e">
 
-3) Detail the failure inducing input and context. That might mean any or all of the command you're running, a test case, command line arguments, working directory, even the last cew commands you ran. Do your best to provide as much context as you can.
+**Detail the failure inducing input and context. That might mean any or all of the command you're running, a test case, command line arguments, working directory, even the last cew commands you ran. Do your best to provide as much context as you can.**
 
 I've gone through both the `help.sh` bash script and everything looks like it should work properly! The first line:
 
