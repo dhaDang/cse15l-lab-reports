@@ -83,7 +83,7 @@ pwd
 It might be useful to first find out what directory you're in first! 
 Hope this helps. 
 
-**2) Another screenshot or terminal output showing what infromation the student got from trying that and a clear description on what the bug is 
+**2) Another screenshot or terminal output showing what infromation the student got from trying that and a clear description on what the bug is**
 
 Student's folders and files:
 
@@ -101,7 +101,7 @@ bash: help.sh: No such file or directory
 ```
 appears. Its a simple but often overlooked bug! 
 
-**3) At the end, all the information needed about the set up: **
+**3) At the end, all the information needed about the set up:**
 * The file and directory structure needed:*
 The file and directory structure needed is as follows. I made a folder called `LABREPORT` and within that folder I had two other ones called `javafile` and `script`. Inside `javafile` is where the `hello.class` and `hello.java` files are stored. On the other hand, the `script` folder contains the bash script `help.sh`. 
 
